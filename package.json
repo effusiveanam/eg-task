@@ -1,0 +1,21 @@
+{
+  "name": "eg-task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run",
+    "cypress:run:chrome": "cypress run --browser chrome",
+    "open-my-html": "open file:///Users/anamikanayan/Desktop/eg-task/task.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.8.0",
+    "open": "^10.1.0",
+    "prettier": "3.2.5",
+    "typescript": "^5.4.5"
+  }
+}
