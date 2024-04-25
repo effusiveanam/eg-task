@@ -48,6 +48,13 @@ npm run cypress:run:chrome
 **Server:** Node
 
 
+
+## Screenshots
+
+<img width="1710" alt="Screenshot 2024-04-25 at 3 58 03 AM" src="https://github.com/effusiveanam/eg-task/assets/19259939/751dcc16-31ea-44d1-ba58-050a5650a17b">
+
+
+
 ## 🚀 About Me
 
 #### Hi, I'm Anamika! 👋
@@ -56,7 +63,7 @@ I'm a Senior QA Engineer..
 
 
 
-## Screenshots
+## 🔗 Links
 
-<img width="1710" alt="Screenshot 2024-04-25 at 3 58 03 AM" src="https://github.com/effusiveanam/eg-task/assets/19259939/751dcc16-31ea-44d1-ba58-050a5650a17b">
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anamika-nayan/)
 
