@@ -47,11 +47,14 @@ npm run cypress:run:chrome
 
 **Server:** Node
 
+
 ## 🚀 About Me
 
 #### Hi, I'm Anamika! 👋
 
 I'm a Senior QA Engineer..
+
+
 
 ## Screenshots
 
