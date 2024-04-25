@@ -43,9 +43,11 @@ npm run cypress:run:chrome
 
 ## Tech Stack
 
-**Client:** TypeScript, Cypress, HTML
+**Client:** TypeScript, Javascript, HTML
 
 **Server:** Node
+
+**Automation Framework** Cypress
 
 
 
