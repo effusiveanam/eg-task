@@ -9,8 +9,12 @@
     "cypress:run:chrome": "cypress run --browser chrome",
     "open-my-html": "open file:///Users/anamikanayan/Desktop/eg-task/task.html"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/effusiveanam/eg-task"
+  },
   "keywords": [],
-  "author": "",
+  "author": "Anamika Nayan",
   "license": "ISC",
   "devDependencies": {
     "cypress": "^13.8.0",
