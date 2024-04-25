@@ -10,7 +10,7 @@ describe('Practice Page Test', () => {
 	});
 
 	it('Verify the header text after page is opened', () => {
-		practice.verifyPracticePageText(pageTitle);
+		practice.verifyTitle(pageTitle);
 	});
 
 	it('Verify Home button with the link', () => {
