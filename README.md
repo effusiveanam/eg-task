@@ -55,4 +55,4 @@ I'm a Senior QA Engineer..
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](file:///Users/anamikanayan/Desktop/Screenshot%202024-04-25%20at%203.58.03%E2%80%AFAM.png)
