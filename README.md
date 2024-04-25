@@ -21,8 +21,6 @@ Install dependencies
   npm install
 ```
 
-Start the server -
-
 If you want to run the project in headless mode, try the below command -
 
 ```bash
