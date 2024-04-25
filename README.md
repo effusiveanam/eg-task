@@ -3,7 +3,7 @@
 This is a sample Cypress Project created with TypeScript.
 The purpose of this project is to open a html page and verify the visibility and functionality of each of the web elements on the html page.
 
-## Run Locally
+## Prepare the SetUp
 
 ```bash
   git clone git@github.com:effusiveanam/eg-task.git
@@ -20,6 +20,8 @@ Install dependencies
 ```bash
   npm install
 ```
+
+## Run the Test Cases Locally
 
 If you want to run the project in headless mode, try the below command -
 
