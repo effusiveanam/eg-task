@@ -55,5 +55,5 @@ I'm a Senior QA Engineer..
 
 ## Screenshots
 
-![App Screenshot](<img width="1710" alt="Screenshot 2024-04-25 at 3 58 03 AM" src="https://github.com/effusiveanam/eg-task/assets/19259939/e95b8cd0-61b1-494f-908c-5922f75c1028">
-)
+<img width="1710" alt="Screenshot 2024-04-25 at 3 58 03 AM" src="https://github.com/effusiveanam/eg-task/assets/19259939/751dcc16-31ea-44d1-ba58-050a5650a17b">
+
