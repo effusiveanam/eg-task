@@ -51,7 +51,12 @@ npm run cypress:run:chrome
 
 ## Screenshots
 
+**GUI Mode -** 
 <img width="1710" alt="Screenshot 2024-04-25 at 3 58 03 AM" src="https://github.com/effusiveanam/eg-task/assets/19259939/751dcc16-31ea-44d1-ba58-050a5650a17b">
+
+**Headless Mode in Chrome -**
+<img width="1710" alt="Screenshot 2024-04-25 at 8 46 52 AM" src="https://github.com/effusiveanam/eg-task/assets/19259939/9d38c6ed-9d4c-4cdd-bf14-e76104ef3fb2">
+
 
 
 
