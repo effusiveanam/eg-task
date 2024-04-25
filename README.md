@@ -6,7 +6,7 @@ The purpose of this project is to open a html page and verify the visibility and
 ## Run Locally
 
 ```bash
-  git clone https://github.com/effusiveanam/eg-task/tree/main
+  git clone git@github.com:effusiveanam/eg-task.git
 ```
 
 Go to the project directory
