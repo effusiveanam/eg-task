@@ -4,7 +4,6 @@ export class practicePg {
 		practisePage: () => cy.get('div.wrapper'),
 		dropdown: () => cy.get('select#dropdown-class-example'),
 		imgUpload: () => cy.get('input[name="img"]'),
-		//div.image-upload-wrapper
 		uploadedImg: () => cy.get('div.image-upload-wrapper img'),
 		newTabBtn: () => cy.get('button#opentab'),
 		nameField: () => cy.get('input[name="enter-name"]'),
@@ -23,7 +22,8 @@ export class practicePg {
 		return this;
 	}
 
-	verifyPracticePageText(title: string) {
+	verifyTitle(title: string) {
+		cy.log('The title is ' + title);
 		cy.title().should('include', title);
 		return this;
 	}
