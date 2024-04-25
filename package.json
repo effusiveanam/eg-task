@@ -7,7 +7,7 @@
     "cypress:open": "cypress open",
     "cypress:run": "cypress run",
     "cypress:run:chrome": "cypress run --browser chrome",
-    "open-my-html": "open file:///Users/anamikanayan/Desktop/eg-task/task.html"
+    "open-html": "open file:///Users/anamikanayan/Desktop/eg-task/task.html"
   },
   "repository": {
     "type": "git",
