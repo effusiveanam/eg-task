@@ -47,7 +47,7 @@ npm run cypress:run:chrome
 
 **Server:** Node
 
-**Automation Framework** Cypress
+**Automation Framework:** Cypress
 
 
 
